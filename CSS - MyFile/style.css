@@ -65,9 +65,9 @@ top: 40px;
 }
 
 .down_cloud{
-    position: absolute;
-    bottom: 180px;
-    left: 150px;
+    position: relative;
+    bottom: 250px;
+    left: 20px;
 
 }
 
